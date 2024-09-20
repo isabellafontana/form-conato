@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(243, 97, 175);
+}
+form{
+    border: 1px solid white;
+    color: white;
+}
+button{
+    background-color: rgb(255, 151, 206);
+    width: 80px;
+    height: 30px;
+    border: 1px solid white;
+    color: white;
+    font-weight: bolder;
+
+    
+}
